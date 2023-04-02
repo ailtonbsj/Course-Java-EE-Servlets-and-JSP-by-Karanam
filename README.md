@@ -1,9 +1,13 @@
-# Java Servlets and JSP - Build Java EE by in28Minutes (Ranga Karanam)
-![](https://img.shields.io/badge/status-in%20progress-blue)
+# Java Servlets and JSP - Build Java EE by in28Minutes
+![](https://img.shields.io/badge/status-completed-brightgreen)
 
 <p align="center">
 <img src=".github/logo.png">
 </p>
+
+Learn Java EE - Java Servlets and JSP with a Hands-on Step by Step Approach building a Todo Management Application! From [Udemy](https://www.udemy.com/course/learn-java-servlets-and-jsp-web-application-in-25-steps/).
+
+Creator: Ranga Karanam
 
 ## History of commands
 
@@ -34,5 +38,8 @@ tar -zxf apache-tomcat-10.1.7.tar.gz -C ~/.apps
 
 # Added Tomcat server to Eclipse in
 # ~/.apps/apache-tomcat-10.1.7/
+
+# Installed Lombok plugin on Eclipse from:
+# https://projectlombok.org/setup/eclipse
 
 ```
